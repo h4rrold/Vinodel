@@ -1,0 +1,139 @@
+
+<div class="container">
+	<div class="container__menu">
+		<div class="menu">
+			<div class="menu__item"><a href="#" class="menu__link"></a></div>
+		</div>
+	</div>
+	<div class="container__header">
+		<div class="header">
+			<div class="header__logo">
+				<div class="logo"><img src="" alt="" class="logo__img"></div>
+			</div>
+		</div>
+	</div>
+	<div class="container__phones">
+		<div class="phones">
+			<div class="phones__icon"></div>
+			<div class="phones__text"></div>
+		</div>
+	</div>
+	<div class="container__purchase">
+		<div class="purchase">
+			<div class="img purchase__img" src=""></div>
+			<div class="purchase__text"></div>
+		</div>
+	</div>
+</div>
+<div class="container__menu">
+	<div class="menu">
+		<div class="menu__item"><a href="#" class="menu__link"></a></div>
+	</div>
+</div>
+<div class="container__right-content">
+	<div class="right-content">
+		<div class="right-content__title"></div>
+		<div class="right-content__arrow">
+			<div class="right-content__text"></div>
+		</div>
+		<div class="right-content__title"></div>
+		<div class="right-content__arrow">
+			<div class="right-content__text"></div>
+		</div>
+	</div>
+</div>
+<div class="container__content">
+	<div class="content">
+		<div class="content__pg-title">
+			<div class="pg-title"></div>
+			<div class="pg-title__text"></div>
+		</div>
+		<div class="content__sorting">
+			<div class="sorting">
+				<div class="sorting__text"></div>
+				<form action="#" method="GET" class="sorting__form"></form>
+				<div class="sorting__text"></div>
+				<div class="sorting__num-pages">
+					<div class="num-pages">
+						<div class="num-pages__num-page">
+							<div class="num-page"></div>
+							<div class="num-page"></div>
+							<div class="num-page"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="content__goods">
+			<div class="goods">
+				<div class="goods__good">
+					<div class="good">
+						<img src="" alt="" class="good__img">
+						<div class="good__text"></div>
+						<div class="good__price"></div>
+					</div>
+					<div class="good">
+						<img src="" alt="" class="good__img">
+						<div class="good__text"></div>
+						<div class="good__price"></div>
+					</div>
+					<div class="good">
+						<img src="" alt="" class="good__img">
+						<div class="good__text"></div>
+						<div class="good__price"></div>
+					</div>
+					<div class="good">
+						<img src="" alt="" class="good__img">
+						<div class="good__text"></div>
+						<div class="good__price"></div>
+					</div>
+					<div class="good">
+						<img src="" alt="" class="good__img">
+						<div class="good__text"></div>
+						<div class="good__price"></div>
+					</div>
+					<div class="good">
+						<img src="" alt="" class="good__img">
+						<div class="good__text"></div>
+						<div class="good__price"></div>
+					</div>
+					<div class="good">
+						<img src="" alt="" class="good__img">
+						<div class="good__text"></div>
+						<div class="good__price"></div>
+					</div>
+					<div class="good">
+						<img src="" alt="" class="good__img">
+						<div class="good__text"></div>
+						<div class="good__price"></div>
+					</div>
+					<div class="good">
+						<img src="" alt="" class="good__img">
+						<div class="good__text"></div>
+						<div class="good__price"></div>
+					</div>
+				</div>
+				<div class="goods__sorting">
+					<div class="sorting">
+						<div class="sorting__text"></div>
+						<div class="sorting__num-page"></div>
+						<div class="sorting__num-page"></div>
+						<div class="sorting__num-page"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="container__footer">
+	<div class="footer">
+		<div class="footer__logo">
+			<div class="logo"><img src="" alt="" class="logo__img"></div>
+		</div>
+		<div class="footer__contacts">
+			<div class="contacts">
+				<div class="contacts__text"></div>
+			</div>
+		</div>
+	</div>
+</div>
